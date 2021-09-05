@@ -1,0 +1,15 @@
+.tagWrapper {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 3px solid grey;
+}
+.tagInformation{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.tagActions {
+    display:flex;
+    align-items: center;
+}
